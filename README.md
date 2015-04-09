@@ -4,6 +4,8 @@ Contact email: wannaboxster@gmail.com
 
 I reference Jamie's code from Stackoverflow, and I modified some part to use GUI and save as original file name. I wrote this code for fun & hobby, and will update when I have new idea. You should use this code for non-commercial apps, software or whatever if possible, but this code is under MIT license and feel free to use or modify. 
 
+Now, this code will download 64 pics from google image. Next version will ask a user to stop download or continue after it downloaded 32 images. 
+
 This code will work for Windows, Mac and Linux
 
 Original google image download source code from Jaime Ivan Cervantes
