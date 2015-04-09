@@ -1,9 +1,8 @@
-google-image-downloader
 Google image downloader with GUI (Easygui)
 
-email: wannaboxster@gmail.com
+Contact email: wannaboxster@gmail.com
 
-I modified some part of code of Jaime's code. Feel free to modify my code too. 
+I reference Jamie's code from Stackoverflow, and I modified some part to use GUI and save as original file name. This code is based on MIT license and feel free to use or modify. 
 
 
 Original google image download source code from Jaime Ivan Cervantes
